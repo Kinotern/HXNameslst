@@ -8,3 +8,5 @@ https://github.com/MLChinoo/ten_sz_hxnames
 https://github.com/MLChinoo/lllj_hxnames
 
 https://github.com/2778995958/gal_tachie_ai/blob/main/yuzu/HxNames-DR.lst
+
+https://github.com/2778995958/gal_tachie_ai/tree/main/krkr/HxNames-DTKD.lst
